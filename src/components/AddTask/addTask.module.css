@@ -1,0 +1,27 @@
+.addTask {
+  /* Sample */
+}
+.todoForm{
+  box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
+  width: 50%;
+  height: 400px;
+  padding: 10px;
+}
+input{
+  height:30px ;
+  width: 80%;
+  margin-top: 30px;
+  border-radius: 10px;
+
+}
+button{
+  margin-left: 5px;
+  height:30px ;
+  width: 16%;
+  margin-top: 30px;
+  border: none;
+  background-color: rgb(241, 67, 96);
+  border-radius: 10px;
+  color: white;
+  font-family: sans-serif;
+}
